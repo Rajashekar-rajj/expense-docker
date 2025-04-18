@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #check whether root user or not
 R="\e[31m"
 N="\e[0m"
